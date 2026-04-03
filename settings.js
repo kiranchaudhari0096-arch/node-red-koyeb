@@ -1,6 +1,6 @@
 module.exports = {
-  uiPort: process.env.PORT || 8080,
-  uiHost: "0.0.0.0",   
+  uiPort: process.env.PORT || 3000,
+  uiHost: "0.0.0.0",
   httpAdminRoot: "/",
   httpNodeRoot: "/api",
   userDir: "/root/.node-red",
